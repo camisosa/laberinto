@@ -1,0 +1,63 @@
+{   "audio":"audios/sonidovoztecno.mp3",
+    "modelo":"modelos/MazeRunnerNew.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":0,
+                "camara":"camara",
+                "target":"foco",
+                "nombre":"inicio"
+           },
+           {
+               "tiempo":"00:01",
+               "duracion":4000,
+               "camara":"camara1",
+               "target":"foco1",
+               "nombre":"vista dos"
+          },
+          {
+               "tiempo":"00:05",
+               "duracion":6000,
+               "camara":"camara2",
+               "target":"foco2",
+               "nombre":"vista tres"
+          },
+          {
+               "tiempo":"00:11",
+               "duracion":8000,
+               "camara":"camara3",
+               "target":"foco3",
+               "nombre":"vista cuatro"
+          },
+          {
+               "tiempo":"00:20",
+               "duracion":10000,
+               "camara":"camara4",
+               "target":"foco4",
+               "nombre":"vista cinco"
+          },
+          {
+               "tiempo":"00:30",
+               "duracion":3000,
+               "camara":"camara5",
+               "target":"foco5",
+               "nombre":"vista seis"
+          },
+          {
+               "tiempo":"00:33",
+               "duracion":3000,
+               "camara":"camara6",
+               "target":"foco6",
+               "nombre":"vista siete"
+          },
+          {
+               "tiempo":"00:36",
+               "duracion":5000,
+               "camara":"camara7",
+               "target":"foco7",
+               "nombre":"vista ochos"
+          }
+      ]
+}
