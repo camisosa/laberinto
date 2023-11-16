@@ -1,5 +1,5 @@
 {   "audio":"audios/sonidovoztecno.mp3",
-    "modelo":"modelos/MazeRunnerNew.glb",
+    "modelo":"modelos/MazeRunnerNew-2.glb",
     "fondo":"rgb(0,0,0)",
     "data" :
         [
@@ -8,56 +8,143 @@
                 "duracion":0,
                 "camara":"camara",
                 "target":"foco",
-                "nombre":"inicio"
+                "nombre":"Inicio"
            },
            {
                "tiempo":"00:01",
-               "duracion":4000,
+               "duracion":3000,
                "camara":"camara1",
                "target":"foco1",
-               "nombre":"vista dos"
+               "nombre":"Entrada"
           },
           {
-               "tiempo":"00:05",
+               "tiempo":"00:04",
                "duracion":6000,
                "camara":"camara2",
                "target":"foco2",
-               "nombre":"vista tres"
+               "nombre":"Area"
           },
           {
-               "tiempo":"00:11",
-               "duracion":8000,
+               "tiempo":"00:10",
+               "duracion":3000,
                "camara":"camara3",
                "target":"foco3",
-               "nombre":"vista cuatro"
+               "nombre":"Paredes"
           },
           {
-               "tiempo":"00:20",
-               "duracion":10000,
+               "tiempo":"00:13",
+               "duracion":12000,
                "camara":"camara4",
                "target":"foco4",
-               "nombre":"vista cinco"
+               "nombre":"Entrada"
           },
           {
-               "tiempo":"00:30",
+               "tiempo":"00:25",
                "duracion":3000,
                "camara":"camara5",
                "target":"foco5",
-               "nombre":"vista seis"
+               "nombre":"Enredaderas"
           },
           {
-               "tiempo":"00:33",
+               "tiempo":"00:28",
                "duracion":3000,
                "camara":"camara6",
-               "target":"foco6",
-               "nombre":"vista siete"
+               "target":"foco6"
           },
           {
-               "tiempo":"00:36",
-               "duracion":5000,
+               "tiempo":"00:31",
+               "duracion":3000,
                "camara":"camara7",
-               "target":"foco7",
-               "nombre":"vista ochos"
+               "target":"foco7"
+          },
+          {
+               "tiempo":"00:34",
+               "duracion":3000,
+               "camara":"camara8",
+               "target":"foco8"
+          },
+          {
+               "tiempo":"00:37",
+               "duracion":3000,
+               "camara":"camara9",
+               "target":"foco9"
+          },
+          {
+               "tiempo":"00:40",
+               "duracion":3000,
+               "camara":"camara10",
+               "target":"foco10"
+          },
+          {
+               "tiempo":"00:43",
+               "duracion":5000,
+               "camara":"camara11",
+               "target":"foco11",
+               "nombre":"WICKD"
+          },
+          {
+               "tiempo":"00:48",
+               "duracion":3000,
+               "camara":"camara12",
+               "target":"foco12",
+               "nombre":"CORREDOR"
+          },
+          {
+               "tiempo":"00:51",
+               "duracion":3000,
+               "camara":"camara13",
+               "target":"foco13",
+               "nombre":"LABERINTO"
+          },
+          {
+               "tiempo":"00:54",
+               "duracion":2000,
+               "camara":"camara14",
+               "target":"foco14"
+          },
+          {
+               "tiempo":"00:56",
+               "duracion":2000,
+               "camara":"camara15",
+               "target":"foco15"
+          },
+          {
+               "tiempo":"00:58",
+               "duracion":5000,
+               "camara":"camara16",
+               "target":"foco16",
+               "nombre":"Escombros"
+          },
+          {
+               "tiempo":"01:03",
+               "duracion":3000,
+               "camara":"camara17",
+               "target":"foco17"
+          },
+          {
+               "tiempo":"01:06",
+               "duracion":3000,
+               "camara":"camara18",
+               "target":"foco18"
+          },
+          {
+               "tiempo":"01:09",
+               "duracion":3000,
+               "camara":"camara19",
+               "target":"foco19"
+          },
+          {
+               "tiempo":"01:12",
+               "duracion":3000,
+               "camara":"camara20",
+               "target":"foco20"
+          },
+          {
+               "tiempo":"01:15",
+               "duracion":5000,
+               "camara":"camara21",
+               "target":"foco21",
+               "nombre":"FIN"
           }
       ]
 }
